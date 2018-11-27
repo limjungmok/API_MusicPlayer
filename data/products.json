@@ -1,0 +1,94 @@
+[
+  {
+    "sku": 12064273040195392,
+    "title": "고양이 무늬 티셔츠",
+    "description": "4 MSL",
+    "price": 10000,
+    "currencyId": "KRW",
+    "currencyFormat": "₩"
+  },
+
+  {
+    "sku": 51498472915966366,
+    "title": "강아지 무늬 티셔츠",
+    "description": "",
+    "price": 29000,
+    "currencyId": "KRW",
+    "currencyFormat": "₩"
+  },
+
+  {
+    "sku": 10686354557628303,
+    "title": "호랑이 무늬 티셔츠",
+    "description": "GPX Poly 1",
+    "price": 90000,
+    "currencyId": "KRW",
+    "currencyFormat": "₩"
+  },
+
+  {
+    "sku": 11033926921508487,
+    "title": "기린 무늬 티셔츠",
+    "description": "Treino 2014",
+    "price": 14000,
+    "currencyId": "KRW",
+    "currencyFormat": "₩"
+  },
+
+  {
+    "sku": 39876704341265606,
+    "title": "코끼리 무늬 티셔츠",
+    "description": "",
+    "price": 13000,
+    "currencyId": "KRW",
+    "currencyFormat": "₩",
+    "isFreeShipping": false
+  },
+
+  {
+    "sku": 10412368723880253,
+    "title": "구렁이 무늬 티셔츠",
+    "description": "",
+    "price": 7500,
+    "currencyId": "KRW",
+    "currencyFormat": "₩",
+    "isFreeShipping": false
+  },
+
+  {
+    "sku": 8552515751438644,
+    "title": "치타 무늬 티셔츠",
+    "description": "14/15",
+    "price": 109000,
+    "currencyId": "KRW",
+    "currencyFormat": "₩"
+  },
+
+  {
+    "sku": 18644119330491312,
+    "title": "뱀 무늬 티셔츠",
+    "description": "14/15",
+    "price": 19000,
+    "currencyId": "KRW",
+    "currencyFormat": "₩"
+  },
+
+  {
+    "sku": 11854078013954528,
+    "title": "사슴 무늬 티셔츠",
+    "description": "14/15",
+    "price": 95000,
+    "currencyId": "KRW",
+    "currencyFormat": "₩",
+    "isFreeShipping": false
+  },
+
+  {
+    "sku": 876661122392077,
+    "title": "개구리 무늬 티셔츠",
+    "description": "2014",
+    "price": 66000,
+    "currencyId": "KRW",
+    "currencyFormat": "₩"
+  }
+]
